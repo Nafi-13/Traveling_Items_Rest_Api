@@ -3,6 +3,6 @@ A backend system for managing "Traveling Accessories" of a shop. Data can be ins
 
 
 1. Unrar the Zip file.
-2. Import the project in Springboot (STS)
-3. Use Postman to verify the requests.
-4. MySql is used here as the Database.
+2. Import the project in "Springboot" (STS)
+3. Use "Postman" to verify the requests.
+4. "MySql" is used here as the Database.
